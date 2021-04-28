@@ -24,6 +24,6 @@ body{
 }
 
 #btn:active{
-  box-shadow:0 5px 0 #d1483e;
+  box-shadow:0 5px 0 black;
   margin-top:35px;
 }
