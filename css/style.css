@@ -6,7 +6,7 @@ body{
 #btn{
   width:200px;
   height:200px;
-  background:#fe454a;
+  background:grey;
   border-radius:50%;
   margin:30px auto;
   text-align:center;
@@ -15,7 +15,7 @@ body{
   font-weight:bold;
   font-size:21px;
   cursor:pointer;
-  box-shadow:0 10px 0 #d1483e;
+  box-shadow:0 10px 0 black;
   user-select:none;
 }
 
